@@ -1,0 +1,1 @@
+This project should be installed as LIBUSB_DIR with ProjectTool.
